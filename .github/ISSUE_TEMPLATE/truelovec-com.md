@@ -1,7 +1,7 @@
 ---
-name: truelovec.com
-about: True love club
-title: ''
+name: true love Club
+about: tlc It Is social service of Shalom Center Ministry call be holistic on function
+title: ''t.l.c
 labels: ''
 assignees: ''
 
